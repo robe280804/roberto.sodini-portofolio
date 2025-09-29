@@ -1,4 +1,27 @@
 # React + Vite
+## Portfolio – Roberto Sodini
+
+Un portfolio moderno e responsive sviluppato con React, Tailwindcss e Vite, pensato per presentare in modo professionale competenze, progetti e contatti.
+
+### Funzionalità principali
+- Sezione Home con navbar
+- Sezione Skills avanzata con icone per ogni tecnologia
+- Sezione About con competenze, formazione ed esperienze
+- Sezione Projects con descrizioni e link ai repository
+- Sezione Contact con form (EmailJS)
+- Navbar responsive con versione mobile
+- Footer con link professionali (GitHub, LinkedIn)
+
+### Stack tecnico
+- React 19 + Vite
+- TailwindCSS 4
+- EmailJS per l’invio del form di contatto
+
+### Link
+- GitHub: https://github.com/robe280804
+- LinkedIn: https://www.linkedin.com/in/roberto-sodini-0a2580382/
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
