@@ -12,6 +12,10 @@ Un portfolio moderno e responsive sviluppato con React, Tailwindcss e Vite, pens
 - Navbar responsive con versione mobile
 - Footer con link professionali (GitHub, LinkedIn)
 
+  # Aggiunte future
+  - Con il crescere dei progetti, implementare una sezione più dettagliata che descriva meglio il progetto e lo stack utiizzato
+  - Aggiungere una sezione personale con passioni ed hobby
+
 ### Stack tecnico
 - React 19 + Vite
 - TailwindCSS 4
